@@ -1,4 +1,3 @@
-//movie_card.dart
 import 'package:flutter/material.dart';
 
 class MovieCard extends StatelessWidget {
